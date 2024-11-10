@@ -1,0 +1,13 @@
+{
+  "api_key": "your_api_key_here",
+  "api_secret": "your_api_secret_here",
+  "api_passphrase": "your_api_passphrase_here",
+  "trading_pairs": [
+    "BTC-USDT",
+    "ETH-USDT",
+    "SOL-USDT",
+    "BNB-USDT",
+    "XRP-USDT"
+  ],
+  "ui_port": 5173
+}
